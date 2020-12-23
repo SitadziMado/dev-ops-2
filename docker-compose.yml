@@ -22,5 +22,5 @@ services:
 
 networks:
   gitlab-ee:
-    name: 'gitlab-hse'
+    name: 'gitlab-shitajimado'
     driver: 'bridge'
